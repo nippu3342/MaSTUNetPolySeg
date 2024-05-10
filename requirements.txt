@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+torch
+albumentations
+matplotlib
+ml_collections
+torchvision
+mmsegmentation
+mmengine
+mmcv==2.1.0
+ftfy
+regex
+timm
+einops
+
